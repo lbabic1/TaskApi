@@ -1,0 +1,98 @@
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:13:27.836818{
+  "PlayerId": 12,
+  "FirstName": "Cristiano",
+  "LastName": "Ronaldo",
+  "CurrentClub": "Man Utd",
+  "nationallity": "Portugese",
+  "DateOfBirth": "1985-02-05",
+  "Position": "Striker",
+  "LastModified": "2021-10-20T19:16:43.032116Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:48:35.212477{
+  "PlayerId": 12,
+  "FirstName": "Cristiano",
+  "LastName": "Ronaldo",
+  "CurrentClub": "Man Utd",
+  "nationallity": "Portugese",
+  "DateOfBirth": "1985-02-05",
+  "Position": "Striker",
+  "LastModified": "2021-10-20T19:16:43.032116Z"
+}
+
+-------------------------------
+Latest pull: 2021-10-21 07:50:52.926841{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+
+-------------------------------
+Latest pull: 2021-10-21 07:51:17.643469
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+
+-------------------------------
+Latest pull: 2021-10-21 07:52:23.885463
+{
+  "PlayerId": 12,
+  "FirstName": "Cristiano",
+  "LastName": "Ronaldo",
+  "CurrentClub": "Man Utd",
+  "nationallity": "Portugese",
+  "DateOfBirth": "1985-02-05",
+  "Position": "Striker",
+  "LastModified": "2021-10-20T19:16:43.032116Z"
+}
+
+-------------------------------
+Latest pull: 2021-10-21 07:53:03.950768
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:53:20.634951
+
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:53:52.626629

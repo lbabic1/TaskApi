@@ -1,0 +1,127 @@
+
+{
+  "PlayerId": 8,
+  "FirstName": "Luka",
+  "LastName": "Modric",
+  "CurrentClub": "Real Madrid",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1985-09-09",
+  "Position": "Midfield",
+  "LastModified": "2021-10-20T19:09:19.927629Z"
+}
+{
+  "PlayerId": 9,
+  "FirstName": "Lionel",
+  "LastName": "Messi",
+  "CurrentClub": "PSG",
+  "nationallity": "Argentine",
+  "DateOfBirth": "1987-06-24",
+  "Position": "Right Wing",
+  "LastModified": "2021-10-20T19:12:45.483791Z"
+}
+{
+  "PlayerId": 12,
+  "FirstName": "Cristiano",
+  "LastName": "Ronaldo",
+  "CurrentClub": "Man Utd",
+  "nationallity": "Portugese",
+  "DateOfBirth": "1985-02-05",
+  "Position": "Striker",
+  "LastModified": "2021-10-20T19:16:43.032116Z"
+}
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeku",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T20:08:31.435214Z"
+}
+{
+  "PlayerId": 14,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Rijeka",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-30",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-20T19:53:51.298093Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:54:20.061191
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Dinamo",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-21T07:54:55.134950Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:54:59.121122
+
+
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Dinamo",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-30",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-21T07:55:45.641611Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:55:49.872070
+
+
+{
+  "PlayerId": 8,
+  "FirstName": "Luka",
+  "LastName": "Modric",
+  "CurrentClub": "Real M",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1985-09-09",
+  "Position": "Midfield",
+  "LastModified": "2021-10-21T07:57:37.711332Z"
+}
+{
+  "PlayerId": 13,
+  "FirstName": "Mislav",
+  "LastName": "Orsic",
+  "CurrentClub": "Dinamo",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1992-12-29",
+  "Position": "Attacking Midfielder",
+  "LastModified": "2021-10-21T07:56:10.009538Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 07:57:43.893678
+
+
+{
+  "PlayerId": 8,
+  "FirstName": "Luka",
+  "LastName": "Modric",
+  "CurrentClub": "Real Madrid",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1985-09-09",
+  "Position": "Midfield",
+  "LastModified": "2021-10-21T08:07:56.459238Z"
+}
+{
+  "PlayerId": 15,
+  "FirstName": "Dejan",
+  "LastName": "Lovren",
+  "CurrentClub": "Zenit",
+  "nationallity": "Croatian",
+  "DateOfBirth": "1989-07-05",
+  "Position": "Right Wing",
+  "LastModified": "2021-10-21T08:07:51.217199Z"
+}
+-------------------------------
+Latest pull: 2021-10-21 08:08:28.909988
