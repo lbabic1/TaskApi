@@ -17,6 +17,5 @@ To start the application run this command in cmd:
 
 To fetch the data from the exposed API and save it into a file, run:
  -  python console.py
-and follow the instructions
 
 To test CRUD operations open your Postman app and import "Api test.postman_collection.json"
