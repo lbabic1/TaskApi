@@ -10,6 +10,7 @@ application/script that fetches the data from the API and stores it into a file.
  - Django Framework
  - MySQL
  - Postman
+ - Apache
 
 ## How to run it
 To start the application run this command in cmd:
